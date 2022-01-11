@@ -1,3 +1,4 @@
+main.mp3
 TITLEJA:さいたま2000 - GaKH314バージョン
 SUBTITLEJA:  
 BPM:120
