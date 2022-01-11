@@ -33,6 +33,22 @@ STYLE:Single
 5800,
 0,
 #BRANCHSTART r,1,2
+#N
+1111,
+#E
+22202220,
+#M
+12121212,
+11111111,
+,
+#SECTION
+#BRANCHSTART p,50,75
+#BRANCHEND
+11111111,
+,
+#BRANCHSTART p,50,75
+#BRANCHEND
+11111111,
 
 using System;
 using System.Collections.Generic;
@@ -1685,19 +1701,3 @@ namespace TJAPlayer3
                                 break;
                             case 0x14:
                                 chip.nチャンネル番号 = 0x13;
-#N
-1111,
-#E
-22202220,
-#M
-12121212,
-11111111,
-,
-#SECTION
-#BRANCHSTART p,50,75
-#BRANCHEND
-11111111,
-,
-#BRANCHSTART p,50,75
-#BRANCHEND
-11111111,
