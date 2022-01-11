@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @GaKH314
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GaKH314/GaKH314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TITLEJA:さいたま2000 - GaKH314バージョン
+SUBTITLEJA:  
+BPM:120
+WAVE:さいたま2000.ogg
+OFFSET:-2.077
+DEMOSTART:37.793
+SCOREMODE:2
+MAKER:GaKH314
+SONGVOL:100
+SEVOL:100
+SIDE:1
+LIFE:0
+GAME:Taiko
+HEADSCROLL:0.8
+BGIMAGE:bg.png
+BGMOVIE:bg.avi
+MOVIEOFFSET:1.5
+TAIKOWEBSKIN:dir ../song_skins,name yokai,song static,stage  ,don fastscroll
+COURSE:Edit
+LEVEL:7
+BALLOON:6,15,3,30,6,15,3
+SCOREINIT:1000000
+SCOREDIFF:500000
+STYLE:Single
+#MEASURE 4/4
+1000100011101010,
+#MEASURE 2/4
+0212,
+#SCROLL 4
+30
+#SCROLL -4
+11201022112010,
+5800,
+0,
+#BRANCHSTART r,1,2
+#N
+1111,
+#E
+22202220,
+#M
+12121212,
+11111111,
+,
+#SECTION
+#BRANCHSTART p,50,75
+#BRANCHEND
+11111111,
+,
+#BRANCHSTART p,50,75
+#BRANCHEND
+11111111,
